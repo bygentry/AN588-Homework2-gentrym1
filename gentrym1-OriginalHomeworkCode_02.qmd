@@ -43,8 +43,8 @@ print(paste0("The probability of observing exactly 3 calls is ", a3))
 
 ```{r}
 # Plot the relevant Poisson Distribution
-x <- 0:30
-l = 15
+x <- 0:30 # range of values for x
+l = 15 # mean (lambda)
 probset <- dpois(x = x, lambda = l)
 barplot(probset, names.arg = x, space = 0, xlab = "x", ylab = "Pr(X = x)", main = "Probability Mass Function", col="lightblue")
 ```
