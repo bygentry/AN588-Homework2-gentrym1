@@ -1,0 +1,16 @@
+---
+title: "gentrym1-OriginalHomeworkCode_02"
+author: "Gentry Miller"
+format: html
+editor: visual
+---
+
+# Titis in the Mist
+
+## Prelim
+
+```{r}
+library(manipulate)
+```
+
+## Poisson Distribution
