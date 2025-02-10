@@ -11,7 +11,7 @@ theme: cayman
 ## Prelim
 
 ```{r}
-install.packages(c("prettydoc", "manipulate"))
+install.packages(c("prettydoc", "manipulate"), repos = "http://cran.us.r-project.org")
 library(prettydoc)
 library(manipulate)
 ```
