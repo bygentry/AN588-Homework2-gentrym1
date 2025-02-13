@@ -13,7 +13,7 @@ theme: prettydoc::cayman
 editor: visual
 ---
 
-![A beautifully colored mama titi (*Saimiri oerstedii oersted)* and her baby](images/costa-rica-puntarenas-titi-monkey-quepos.jpg)
+![A beautifully colored mama titi (*Saimiri oerstedii oersted*) and her baby](images/costa-rica-puntarenas-titi-monkey-quepos.jpg)
 
 ## Preliminary
 
