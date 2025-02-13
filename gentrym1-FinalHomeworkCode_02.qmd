@@ -1,17 +1,19 @@
 ---
-title: "gentrym1-FinalHomeworkCode_02"
+title: "Titis in the Mist"
 author: "Gentry Miller"
-format: html
-html:
-  toc: true
-  toc-depth: 2
-  toc-expand: 2
-  toc-title: Contents
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-expand: 2
+    toc-title: Contents
+    toc-location: left
+    embed-resources: true
+theme: prettydoc::cayman
 editor: visual
-theme: cayman
 ---
 
-# Titis in the Mist
+![A beautifully colored mama titi (*Saimiri oerstedii oersted)* and her baby](images/costa-rica-puntarenas-titi-monkey-quepos.jpg)
 
 ## Preliminary
 
@@ -25,7 +27,7 @@ library(manipulate)
 
 For the Poisson Distribution, the PMF is
 
-$$ f(x) = \frac{\lambda^x e^{-\lambda}}{x!} $$
+$f(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
 
 Where x = {0, 1, 2, ...} and $\mu_X = \lambda$ and $\sigma^2_X = \lambda$
 
