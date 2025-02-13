@@ -79,3 +79,5 @@ print("The simulated observations follow the general shape of the PMF. When I in
 
 #Carly's comment: I love how your histogram looks here! I have a feeling I ran mine very differently (mainly because the code for this was confusing to figure out). I'm not so sure if mine was correct by looking at how yours looks like. I will definitely take into consideration adding color to my plots just the way you did it. It looks more appealing and it's easy to understand, too. Great work!!!
 ```
+
+#Carly's final comment: Great work overall! I think that as my final comment, I would suggest separating the questions/exercises a little more to make the reading process a little more smooth.
